@@ -7,7 +7,7 @@ This is a mini-project for Computer Networking Assignment 3.
 ### Option 1: Visit the Deployed Web App
 
 - The app is deployed on Google Cloud
-- Visit [https://group-chat-656496851753.asia-east1.run.app](https://group-chat-656496851753.asia-east1.run.app/) for live demo
+- Visit [https://group-chat-656496851753.asia-northeast1.run.app/chat/hello](https://group-chat-656496851753.asia-northeast1.run.app/chat/hello) for live demo
 
 ### Option 2: Load Docker Image from DockerHub and Run on Local Machine
 
